@@ -1,2 +1,2 @@
 # tiposPrimitivos
-Estudo dos primitivos no Python
+Estudo dos tipo primitivos no Python
